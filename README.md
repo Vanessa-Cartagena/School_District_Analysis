@@ -9,14 +9,14 @@ Data Source: schools_complete.csv, student_complete.csv, clean_student_complete.
 Jupyter Notebook, PythonData Environment, Pandas 
 
 ## Results
-###How is the district summary affected? 
+### How is the district summary affected? 
 
 <img width="926" alt="District Summary 1" src="https://user-images.githubusercontent.com/105958160/176816764-abeb8881-b9a9-421b-9545-700c7e4c0d48.png">
 <img width="928" alt="Distric Summary 2" src="https://user-images.githubusercontent.com/105958160/176816778-f22cce64-ca0f-4a58-9e98-9b6771b30264.png">
 
-###How is the school summary affected?
-###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-###How does replacing the ninth-grade scores affect the following:
+### How is the school summary affected?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
 - Scores by school size
